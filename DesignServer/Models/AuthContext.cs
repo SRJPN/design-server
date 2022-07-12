@@ -1,4 +1,4 @@
-namespace canva_dotnet
+namespace DesignServer
 {
     public class AuthContext
     {
